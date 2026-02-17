@@ -1,0 +1,5 @@
+{
+  "name": "3D Exploder",
+  "description": "Interactive 3D exploded view visualizer using Three.js and GSAP.",
+  "requestFramePermissions": []
+}
